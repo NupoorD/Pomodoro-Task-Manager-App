@@ -14,20 +14,23 @@ Have a look at this simple block diagram to understand the flow of the applicati
 ![image](https://github.com/NupoorD/Pomodoro-Task-Manager-App/assets/42179797/fae919dd-19a9-48e7-94bc-8e8c193bb40e)
 
 <h2>Screens:</h2>
-- Task List Page: All tasks that the user added and are currently incomplete will be displayed on the main page.
-![image](https://github.com/NupoorD/Pomodoro-Task-Manager-App/assets/42179797/624cf473-74e2-4812-88fd-22ad03b60312)
+<ul>
+<li>Task List Page: All tasks that the user added and are currently incomplete will be displayed on the main page.</li>
+![image](https://github.com/NupoorD/Pomodoro-Task-Manager-App/assets/42179797/3d1fe751-002d-4ca3-a3af-6d1528d670d0)
 
-- Add New Task Page: User can add a New Task on this page. This task name will be added to the list of incomplete tasks and displayed on the To-Do List page. 
-![image](https://github.com/NupoorD/Pomodoro-Task-Manager-App/assets/42179797/569250e3-c915-42d4-b50b-0a7ba977cf11)
+<li>Add New Task Page: User can add a New Task on this page. This task name will be added to the list of incomplete tasks and displayed on the To-Do List page. </li>
+![WhatsApp Image 2020-11-20 at 2 41 25 PM (1)](https://github.com/NupoorD/Pomodoro-Task-Manager-App/assets/42179797/1f8f774d-079e-40f3-beda-af7f63beccfb)
 
-- View Task Page: User will be navigated to this page on clicking on any one of the tasks on the To-Do List page. From here, user can either start a Pomodoro or mark the task as complete
+<li>View Task Page: User will be navigated to this page on clicking on any one of the tasks on the To-Do List page. From here, user can either start a Pomodoro or mark the task as complete
 ![image](https://github.com/NupoorD/Pomodoro-Task-Manager-App/assets/42179797/4a0499b8-7f19-49cc-84b6-77545718058a)
+</li>
 
-- Timer Page: User can start this 25-minute timer here and begin their Pomodoro.
+<li>Timer Page: User can start this 25-minute timer here and begin their Pomodoro.
 ![image](https://github.com/NupoorD/Pomodoro-Task-Manager-App/assets/42179797/5f4a2a7e-553d-49c4-aac1-a065d6bce588)
+</li>
 
-- Task Completed Page: Photo, location and caption of all completed tasks are saved and displayed on this page.
+<li>Task Completed Page: Photo, location and caption of all completed tasks are saved and displayed on this page.
 ![image](https://github.com/NupoorD/Pomodoro-Task-Manager-App/assets/42179797/9b860576-2357-4366-b730-96290749083c)
-
-
+</li>
+</ul>
  

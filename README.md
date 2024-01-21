@@ -14,23 +14,30 @@ Have a look at this simple block diagram to understand the flow of the applicati
 ![image](https://github.com/NupoorD/Pomodoro-Task-Manager-App/assets/42179797/fae919dd-19a9-48e7-94bc-8e8c193bb40e)
 
 <h2>Screens:</h2>
-<ul>
-<li>Task List Page: All tasks that the user added and are currently incomplete will be displayed on the main page.</li>
-![image](https://github.com/NupoorD/Pomodoro-Task-Manager-App/assets/42179797/3d1fe751-002d-4ca3-a3af-6d1528d670d0)
 
-<li>Add New Task Page: User can add a New Task on this page. This task name will be added to the list of incomplete tasks and displayed on the To-Do List page. </li>
-![WhatsApp Image 2020-11-20 at 2 41 25 PM (1)](https://github.com/NupoorD/Pomodoro-Task-Manager-App/assets/42179797/1f8f774d-079e-40f3-beda-af7f63beccfb)
+- Task List Page: All tasks that the user added and are currently incomplete will be displayed on the main page.
 
-<li>View Task Page: User will be navigated to this page on clicking on any one of the tasks on the To-Do List page. From here, user can either start a Pomodoro or mark the task as complete
-![image](https://github.com/NupoorD/Pomodoro-Task-Manager-App/assets/42179797/4a0499b8-7f19-49cc-84b6-77545718058a)
-</li>
+![WhatsApp Image 2020-11-20 at 2 36 10 PM](https://github.com/NupoorD/Pomodoro-Task-Manager-App/assets/42179797/a3e4925a-4d27-4924-ba63-2a565a68cc70)
 
-<li>Timer Page: User can start this 25-minute timer here and begin their Pomodoro.
-![image](https://github.com/NupoorD/Pomodoro-Task-Manager-App/assets/42179797/5f4a2a7e-553d-49c4-aac1-a065d6bce588)
-</li>
+- Add New Task Page: User can add a New Task on this page. This task name will be added to the list of incomplete tasks and displayed on the To-Do List page.
 
-<li>Task Completed Page: Photo, location and caption of all completed tasks are saved and displayed on this page.
-![image](https://github.com/NupoorD/Pomodoro-Task-Manager-App/assets/42179797/9b860576-2357-4366-b730-96290749083c)
-</li>
-</ul>
- 
+![WhatsApp Image 2020-11-20 at 2 41 25 PM (1)](https://github.com/NupoorD/Pomodoro-Task-Manager-App/assets/42179797/bbf6858f-88a0-43a9-9d04-2ac013763bef)
+
+- View Task Page: User will be navigated to this page on clicking on any one of the tasks on the To-Do List page. From here, user can either start a Pomodoro or mark the task as complete
+
+![WhatsApp Image 2020-11-20 at 2 41 25 PM (2)](https://github.com/NupoorD/Pomodoro-Task-Manager-App/assets/42179797/101a4b6a-fb00-4bb2-a8ec-b85587432ae1)
+
+- Timer Page: User can start this 25-minute timer here and begin their Pomodoro.
+
+![WhatsApp Image 2020-11-20 at 2 41 25 PM (3)](https://github.com/NupoorD/Pomodoro-Task-Manager-App/assets/42179797/9a931906-46e9-413c-b95e-5691e98551a1)
+
+- Task Completed Page: Photo, location and caption of all completed tasks are saved and displayed on this page.
+
+![WhatsApp Image 2020-11-20 at 2 41 25 PM (4)](https://github.com/NupoorD/Pomodoro-Task-Manager-App/assets/42179797/eaca1300-d7fb-46a7-9e04-a12d98ad1182)
+
+- Completed Tasks List Page: Photo, location and caption of all completed tasks are saved and displayed on this page.
+
+![WhatsApp Image 2020-11-20 at 2 41 25 PM (5)](https://github.com/NupoorD/Pomodoro-Task-Manager-App/assets/42179797/89ba12a2-46f9-4e59-ba87-a869ffec574c)
+
+
+
